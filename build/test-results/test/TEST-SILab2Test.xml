@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-06-09T01:53:20" hostname="DESKTOP-79FVBI6" time="0.012">
+  <properties/>
+  <testcase name="itShouldThrowExceptionIfUsernameAlreadyExists" classname="SILab2Test" time="0.001"/>
+  <testcase name="itShouldReturnFalseIfEmailIsVeryShort" classname="SILab2Test" time="0.0"/>
+  <testcase name="itShouldPassWithValidUserObject" classname="SILab2Test" time="0.0"/>
+  <testcase name="itShouldThrowExceptionIfUserIsNull" classname="SILab2Test" time="0.001"/>
+  <testcase name="itShouldReturnFalseIfEmailIsNull" classname="SILab2Test" time="0.001"/>
+  <testcase name="itShouldReturnFalseForBadEmail" classname="SILab2Test" time="0.001"/>
+  <testcase name="itShouldThrowExceptionIfUsernameIsNull" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
