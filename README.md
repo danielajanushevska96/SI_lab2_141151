@@ -17,7 +17,13 @@ CFG
 ![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG2.jpg)
 
 ### Цикломатска комплексност
+Според кодот:
+Nodes = 18
+Edges = 22
 
+Cyclomatic complexity  = E-N+2 = 22-18+2 = 6
+
+Според сликата т.е. ако не се брои return false во кодот два пати добиваме:
 Nodes = 17
 Edges = 22
 
