@@ -10,6 +10,8 @@
 
 ![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG.jpg)
 
+![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG2.jpg)
+
 ### Цикломатска комплексност
 
 Nodes = 18
