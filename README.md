@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-Фотографија од control flow graph-ot 
+![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG.jpg)
 
 ### Цикломатска комплексност
 
