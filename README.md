@@ -8,7 +8,11 @@
 
 ###  Control Flow Graph
 
+FLOWCHART
+
 ![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG.jpg)
+
+CFG
 
 ![cfg](https://karafil.com/wp-content/uploads/2020/06/CFG2.jpg)
 
