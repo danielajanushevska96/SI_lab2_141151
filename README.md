@@ -15,7 +15,7 @@
 Nodes = 18
 Edges = 22
 
-Cyclomatic complexity  = E-N+2 = 22-18+2 = 
+Cyclomatic complexity  = E-N+2 = 22-18+2 = 6
 
 ### Тест случаи според критериумот Every branch
 
