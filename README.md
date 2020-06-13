@@ -18,10 +18,10 @@ CFG
 
 ### Цикломатска комплексност
 
-Nodes = 18
+Nodes = 17
 Edges = 22
 
-Cyclomatic complexity  = E-N+2 = 22-18+2 = 6
+Cyclomatic complexity  = E-N+2 = 22-17+2 = 7
 
 ### Тест случаи според критериумот Every branch
 
